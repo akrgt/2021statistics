@@ -1,37 +1,107 @@
-## Welcome to GitHub Pages
+# 湘南医療大学　統計学
 
-You can use the [editor on GitHub](https://github.com/akrgt/2021statistics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="text-align: center;">このサイトのURLはhttps://akrgt.github.io/2021statistics/です．</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div align="center">
+<img src="qr.png" title="講義サイトqrコード">
+</div>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 第1講(11/16)
 
-1. Numbered
-2. List
+* [講義資料](https://akrgt.github.io/2020statistics/html/1st2nd.html)
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_1st2nd.pdf)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 第2講/第3講(11/30)
 
-### Jekyll Themes
+※工事中：リンクは機能しません．
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akrgt/2021statistics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [講義資料]()
+* [講義資料pdf版]()
+* [dataの説明]()
+* [data]()
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## 第4講/第5講(12/07)
+
+※工事中：リンクは機能しません．
+
+* [講義資料]()
+
+* [講義資料pdf版]()
+
+* [dataの説明]()
+
+* [data]()
+
+  
+
+## 第6講/第7講(12/14)
+
+※工事中：リンクは機能しません．
+
+* [講義資料]()
+
+* [講義資料pdf版]()
+
+  
+
+## 第8講/第9講(12/21)
+
+※工事中：リンクは機能しません．
+
+* [講義資料]()
+
+* [講義資料pdf版]()
+
+  
+
+## 第10講/第11講(01/11)
+
+※工事中：リンクは機能しません．
+
+* [講義資料]()
+
+* [講義資料pdf版]()
+
+  
+
+## 第12講/第13講(01/18)
+
+※工事中：リンクは機能しません．
+
+* [講義資料]()
+
+* [講義資料pdf版]()
+
+
+
+## 第14講/第15講(01/25)
+
+※工事中：リンクは機能しません．
+
+* [講義資料]()
+
+* [講義資料pdf版]()
+
+
+
+## リアクションペーパー：毎回必ずお答えください．
+
+https://forms.gle/oxrNRW1HW9mwGeoHA
+
+
+
+## 担当
+
+- 湘南医療大学　保健医療学部　非常勤講師
+- 明治大学　情報コミュニケーション学部　専任講師
+  - 後藤　晶
+  - akrgt0713[at]gmail.com
+  - [at]をあっとまーくに変えてください．
