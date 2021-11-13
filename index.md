@@ -12,8 +12,7 @@
 
 ## 第1講(11/16)
 
-* [講義資料](https://akrgt.github.io/2020statistics/html/1st2nd.html)
-* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_1st2nd.pdf)
+* [講義資料](https://akrgt.github.io/2020statistics/page/1st)
 
 
 
