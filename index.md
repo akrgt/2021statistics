@@ -19,9 +19,7 @@
 
 
 
-<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"  type="application/pdf" />
-
-
+<a href="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" target="_blank">PDF.</a>
 
 ## 第2講/第3講(11/30)
 
