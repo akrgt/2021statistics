@@ -6,27 +6,23 @@
 
 ## スライド
 
-<iframe id="main-slide"
-    src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf"
-    scrolling="no"
-    allowtransparency="true"
-    width="100%"
-    height="100%"
-    style="border:0;">
-</iframe>
 
+<embed
+  width="800"
+  height="400"
+  src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf"
+  type="application/pdf"
+>
 
 ## ドキュメントファイル
 
-<iframe id="main-slide"
-    src="https://github.com/akrgt/2021statistics/raw/gh-pages/pdf/print_1st.pdf"
-    scrolling="no"
-    allowtransparency="true"
-    width="100%"
-    height="100%"
-    style="border:0;">
-</iframe>
 
+<embed
+  width="800"
+  height="400"
+  src="https://github.com/akrgt/2021statistics/raw/gh-pages/pdf/print_1st.pdf"
+  type="application/pdf"
+>
 
 ## 必要なコードなど
 
