@@ -19,6 +19,14 @@
 
 
 
+```html
+<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"/>
+```
+
+<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"/>
+
+
+
 ## 第2講/第3講(11/30)
 
 ※工事中：リンクは機能しません．
