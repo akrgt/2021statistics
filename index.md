@@ -19,11 +19,7 @@
 
 
 
-```html
-<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"/>
-```
-
-<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"/>
+<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"  type="application/pdf" />
 
 
 
