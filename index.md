@@ -14,12 +14,9 @@
 
 * [講義資料（スライド）](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf)
 
-* [講義資料（ドキュメント）](https://github.com/akrgt/2021statistics/raw/gh-pages/pdf/print_1st.pdf)
-* [補足情報](https://akrgt.github.io/2021statistics/page/1st)
+* [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_1st.html)
 
 
-
-<a href="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" target="_blank">PDF.</a>
 
 ## 第2講/第3講(11/30)
 
