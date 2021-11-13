@@ -5,14 +5,14 @@
 
 
 ## スライド
+<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf" width="100%" height="850px"/>
 
-https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf
 
 
 
 ## ドキュメントファイル
+<embed src="https://github.com/akrgt/2021statistics/raw/gh-pages/pdf/print_1st.pdf" width="100%" height="850px"/>
 
-https://github.com/akrgt/2021statistics/raw/gh-pages/pdf/print_1st.pdf
 
 
 
@@ -27,6 +27,3 @@ https://github.com/akrgt/2021statistics/raw/gh-pages/pdf/print_1st.pdf
 ## リアクションペーパー
 
 https://forms.gle/oxrNRW1HW9mwGeoHA
-
-
-
