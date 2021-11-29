@@ -22,9 +22,9 @@
 
 ※工事中：リンクは機能しません．
 
-* [講義資料]()
-* [講義資料pdf版]()
-* [dataの説明]()
+* [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/2nd3rd.pdf)
+* [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_2nd3rd.html)
+* [dataの説明](https://akrgt.github.io/2021statistics/page/data_table.html)
 * [data]()
 
 
