@@ -8,8 +8,6 @@
 
 
 
-
-
 ## 第1講(11/16)
 
 * [講義資料（スライド）](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/1st.pdf)
@@ -46,11 +44,9 @@
 
 ## 第8講/第9講(12/21)
 
-※工事中：リンクは機能しません．
+* [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/8th9th.pdf)
+* [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_8th9th.html)
 
-* [講義資料]()
-
-* [講義資料pdf版]()
 
   
 
