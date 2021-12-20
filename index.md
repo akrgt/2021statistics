@@ -46,7 +46,7 @@
 
 * [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/8th9th.pdf)
 * [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_8th9th.html)
-* [講義資料（code）](https://akrgt.github.io/2021statistics/code/html_8th9th)
+* [講義資料（code）](https://github.com/akrgt/2021statistics/blob/gh-pages/code/8th9th.md)
 
 
   
