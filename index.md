@@ -46,6 +46,7 @@
 
 * [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/8th9th.pdf)
 * [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_8th9th.html)
+* [講義資料（code）](https://akrgt.github.io/2021statistics/code/html_8th9th)
 
 
   
@@ -53,9 +54,7 @@
 ## 第10講/第11講(01/11)
 
 ※工事中：リンクは機能しません．
-
 * [講義資料]()
-
 * [講義資料pdf版]()
 
   
@@ -63,19 +62,14 @@
 ## 第12講/第13講(01/18)
 
 ※工事中：リンクは機能しません．
-
 * [講義資料]()
-
 * [講義資料pdf版]()
 
 
 
 ## 第14講/第15講(01/25)
-
 ※工事中：リンクは機能しません．
-
 * [講義資料]()
-
 * [講義資料pdf版]()
 
 
