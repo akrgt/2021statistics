@@ -49,9 +49,6 @@ exdataset$ARE <- factor(exdataset$ARE,
                   "Chugoku", "Shikoku", "Kyushu"))
 head(factor(exdataset$ARE))
 ```
-  - Levelsを確認すると，関東を始めとして，北海道，東北，中部，近畿，中国，四国，九州の順番に並べ替えられる．
-  - 『関東』を最初にする理由は今後紹介するが，「比較の基準」とするモノを設定する必要がある．
-
 
 ## 結婚と子どもの有無についても並べ替えよう．
 
@@ -188,9 +185,9 @@ library(tidyr)
 ## dplyrのgroup_by関数を使う方法
 ```{r, echo=T}
 tablea<-exdataset %>% 
-  group_by(ARE, CHI) %>% # 地域ごとにまとめる関数
-  tally() %>% # 地域ごとに数える関数
-  spread(ARE, n) # 数えた結果を地域ごとにまとめる関数
+  group_by(ARE, CHI) %>% 
+  tally() %>% 
+  spread(ARE, n) 
 tablea
 ```
 
@@ -212,8 +209,6 @@ tableb
 library(ggplot2)
 exdataset%>%
   ggplot(aes(x=ARE, fill=CHI),stat="count")+geom_bar()
-# aes()内で変数名を指定する
-# が，後ほど紹介するesquisse()を使うとより容易にヒストグラムを作成できる．
 ```
 
 
@@ -277,32 +272,26 @@ assocstats(tablee)
 
 ## 適合度検定
 
-* 対立仮説：観測された頻度分布と期待される頻度分布に差がある．
-* 帰無仮説：観測された頻度分布と期待される頻度分布に差があるとは言えない．
+
 
 ```{r echo=T}
 psy <- c(40, 21, 40, 90, 50, 70)
 ```
-* サイコロの出た目
 
 ```{r echo=T}
 the_psy <- c(1/6, 1/6, 1/6, 1/6, 1/6, 1/6)
 ```
-* サイコロの目の理論値
 
 ## 適合度検定の実施
 
 ```{r echo=T}
 chisq.test(psy, p = the_psy)
 ```
-* p値は有意水準を大きく下回るために帰無仮説を棄却し，対立仮説を採択する．
-* このサイコロは「普通ではないサイコロ」である．
+
 
 
 ## 適合度検定の実施その2
-* 普通のサイコロを振ったときに，各目が等しい確率で出る．
 
-* 1-6の目が出るサイコロをシミュレーションで10000回振った．このサイコロは「普通のサイコロ」であろうか？それとも「普通ではないサイコロ」ではないだろうか？
 ```{r}
 roll <- function(){
 　　die <- 1:6
@@ -323,7 +312,7 @@ rolls <- replicate(10000, roll())
 rolls_table<-table(rolls)
 rolls_table
 ```
-* 度数を出力しておこう．
+
 
 ## 適合度検定の実施その2
 ```{r}
@@ -337,28 +326,17 @@ chisq.test(rolls_table, p = the_psy)
 ryoko_seibetsu <- matrix(c(70, 50, 60, 40, 30, 20),
                          nrow = 2, byrow = T)
 ```
-* 行列をオブジェクトにしまう．
 
 ## 独立性検定
 ```{r echo=T}
 chisq.test(ryoko_seibetsu)
 ```
 
-* p値は有意水準より大きいために帰無仮説を採択する．
-* 性別と旅行の好みに関連性があるとは言えない（独立である）
-
 
 ```{r echo=T}
 chitest.tablee<-chisq.test(tablee)
 chitest.tablee
 ```
-
-* 検定の結果，p値が.05以上なので，対立仮説を採択できず，帰無仮説を採択する．
-
-## \(\chi^2\)検定
-* レポートにまとめる時には，こんな書き方をします．
-
->  \(\chi^2\)検定を行った結果，居住地域と子供の有無は独立であることがわかった(χ=5.1408, df=7, p=.64)．
 
 
 ```{r echo=T}
@@ -421,5 +399,3 @@ library(stargazer)
 stargazer(hapsat_model, type = "html", align=TRUE, 
           title = "分析結果", out = "hapsatmodel.xls")
 ```
-* 作業フォルダの中に"hapsatmodel.xls"というファイルができていますので，そちらを開いてください．
-  - 開く際に注意画面が出てきますが，「気にせずに開く」を選んでください．
