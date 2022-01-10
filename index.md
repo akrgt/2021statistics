@@ -54,9 +54,8 @@
 ## 第10講/第11講(01/11)
 
 ※工事中：リンクは機能しません．
-* [講義資料]()
-* [講義資料pdf版]()
-
+* [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/10th11th.pdf)
+* [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_10th11th.html)
   
 
 ## 第12講/第13講(01/18)
