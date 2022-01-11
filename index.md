@@ -56,6 +56,19 @@
 * [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/10th11th.pdf)
 * [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_10th11th.html)
   
+```
+## Reordering exdataset$MAR
+exdataset$MAR <- factor(exdataset$MAR,
+  levels = c("NotMarried", "Married")
+)
+
+## Recoding exdataset$MAR into exdataset$MAR01
+exdataset$MAR01 <- fct_recode(exdataset$MAR,
+  "0" = "NotMarried",
+  "1" = "Married"
+)
+exdataset$MAR01 <- as.numeric(as.character(exdataset$MAR01))
+```
 
 ## 第12講/第13講(01/18)
 
