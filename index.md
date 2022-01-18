@@ -76,6 +76,16 @@ exdataset$MAR01 <- as.numeric(as.character(exdataset$MAR01))
 * [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_12th13th.html)
 
 
+```
+## Reordering exdataset$ARE
+exdataset$ARE <- factor(exdataset$ARE, levels=c("Kanto", "Hokkaido", "Tohoku", "Chubu", "Kinki", "Chugoku", "Shikoku", "Kyushu"))
+
+## Reordering exdataset$MAR
+exdataset$MAR <- factor(exdataset$MAR, levels=c("NotMarried", "Married"))
+
+## Reordering exdataset$CHI
+exdataset$CHI <- factor(exdataset$CHI, levels=c("NoChild", "Child"))
+```
 
 
 ## 第14講/第15講(01/25)
