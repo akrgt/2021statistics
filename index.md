@@ -89,9 +89,9 @@ exdataset$CHI <- factor(exdataset$CHI, levels=c("NoChild", "Child"))
 
 
 ## 第14講/第15講(01/25)
-※工事中：リンクは機能しません．
-* [講義資料]()
-* [講義資料pdf版]()
+* [講義資料](https://github.com/akrgt/2021statistics/raw/gh-pages/slide/14th15th.pdf)
+* [講義資料（html）](https://akrgt.github.io/2021statistics/page/html_14th15th.html)
+* 演習問題は別途配布します．
 
 
 
